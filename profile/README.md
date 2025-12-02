@@ -61,8 +61,8 @@
 디딤로그는 코드 품질(Code Quality)을 가장 중요하게 생각합니다.
 기여하시기 전에 아래 가이드를 꼭 확인해주세요.
 
-* [📜 Git Commit Convention (AngularJS Style)](./DOCS/COMMIT_CONVENTION.md)
-* [🧹 Code Style & PR Guide](./DOCS/PR_GUIDE.md)
+* [📜 Git Commit Convention (AngularJS Style)](../DOCS/COMMIT_CONVENTION.md)
+* [🧹 Code Style & PR Guide](../DOCS/PR_GUIDE.md)
 
 <br>
 
